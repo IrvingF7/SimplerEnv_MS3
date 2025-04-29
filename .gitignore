@@ -32,3 +32,5 @@ octo/
 checkpoints/
 ManiSkill2_real2sim/
 videos/
+# ManiSkill 3 data asset directory
+ms_data/
