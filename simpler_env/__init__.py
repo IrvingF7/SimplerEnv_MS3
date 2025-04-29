@@ -1,6 +1,5 @@
 import gymnasium as gym
-import mani_skill2_real2sim.envs
-import warnings
+import mani_skill.envs
 
 ENVIRONMENTS = [
     "google_robot_pick_coke_can",
